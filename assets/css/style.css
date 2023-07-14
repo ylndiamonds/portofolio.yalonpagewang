@@ -367,6 +367,7 @@ form input, form textarea{
   }
   .sticky nav ul li a{
     font-size: 10px;
+    font-weight: 900;
   }
   .sticky nav img{
     width: 0;
